@@ -1,3 +1,3 @@
 var name = prompt('Jak masz na imię?');
-alert('Witaj, ' + name);
+// alert('Witaj, ' + name);
 console.log('Witaj, ' + name);
